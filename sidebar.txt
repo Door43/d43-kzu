@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kzu:home|Door43 (kzu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kzu|d43-kzu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kzu/archive/master.zip|d43-kzu.zip]]
+
+**Recent Changes**
+{{changes>ns = kzu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kzu|Ethnologue data]]
+
